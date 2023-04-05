@@ -1,0 +1,61 @@
+.Banner
+ {
+   height: 100px;
+   width: 100%;
+   background-color: skyblue;
+   
+}
+
+.Navbar
+ {
+   height: 100px;
+   width: 100%;
+   background-color: skyblue;
+   
+}
+
+ul{  
+  margin-left:400px;
+  margin-top: -15px;
+}
+
+li{
+   float:left;
+   margin:20px;
+   color:black;
+   display:inline;
+}
+
+li a{
+  text-decoration:none;
+}
+
+h1
+ {
+   text-align: center;
+   padding:30px;
+}
+
+.1st
+ { 
+  height: 100px;
+  width: 100%;
+  background-color: midnightblue;
+  padding-top: 30px 50px;
+  color: black;
+  }
+
+img
+{ 
+  height: 5px;
+  width: 5%;
+}
+ }
+  
+
+img
+ {
+ padding-top: 20px;
+ width: 1300px;
+ height: 750px;
+}
